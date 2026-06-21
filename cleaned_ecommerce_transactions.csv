@@ -1,0 +1,101 @@
+Transaction_ID,Product_Name,Price,Order_Date,Quantity,Customer_Email,Payment_Status
+TXN0001,USB Cable,287.68,2026-05-20,,customer36@gmail.com,Success
+TXN0002,RAM,1182.64,,5.0,customer7@email.com,Success
+TXN0003,USB Cable,1462.17,2026-04-07,5.0,customer3@gmail.com,Failed
+TXN0004,Headphones,1734.0,,4.0,customer39@gmail.com,Pending
+TXN0005,Mouse,765.12,,1.0,customer14@outlook.com,Pending
+TXN0006,Cooling Pad,287.86,,2.0,customer49@gmail.com,Success
+TXN0007,nan,1259.0,,8.0,customer44@gmail.com,Failed
+TXN0008,USB Cable,686.95,2026-04-27,2.0,customer41@gmail.com,Pending
+TXN0009,Keyboard,1527.4,2026-05-06,4.0,customer37@yahoo.com,Pending
+TXN0010,Webcam,1956.19,,6.0,customer46@yahoo.com,Success
+TXN0011,Charger,1039.98,,9.0,customer46@gmail.com,Pending
+TXN0012,Smartphone,151.01,,3.0,customer13@email.com,Success
+TXN0013,Charger,939.38,2026-06-15,1.0,customer35@yahoo.com,Pending
+TXN0014,USB Cable,1750.23,2026-05-21,1.0,customer11@yahoo.com,Success
+TXN0015,SSD,337.63,,7.0,customer14@outlook.com,Success
+TXN0016,Smartphone,124.0,,2.0,customer44@gmail.com,Success
+TXN0017,Mouse,89.09,,5.0,customer9@email.com,Pending
+TXN0018,Phone Case,1872.11,2026-05-25,2.0,customer16@gmail.com,Success
+TXN0019,Screen Protector,1974.59,,2.0,customer48@gmail.com,Success
+TXN0020,Keyboard,415.16,2026-03-06,0.0,,Failed
+TXN0021,USB Cable,889.0,2026-01-29,5.0,customer28@yahoo.com,Success
+TXN0022,Smartphone,428.05,,2.0,customer11@yahoo.com,Failed
+TXN0023,RAM,939.38,,1.0,customer31@gmail.com,Success
+TXN0024,Cooling Pad,1642.87,,4.0,customer44@email.com,Pending
+TXN0025,Laptop,1941.1,2026-03-09,5.0,customer25@gmail.com,Failed
+TXN0026,Smartphone,13.37,,4.0,customer21@email.com,Failed
+TXN0027,Tablet,1333.0,,0.0,customer28@yahoo.com,Failed
+TXN0028,Phone Case,889.9,2026-02-13,5.0,customer44@yahoo.com,Failed
+TXN0029,Tablet,939.38,,10.0,customer32@email.com,Success
+TXN0030,Laptop,1722.28,,8.0,customer30@gmail.com,Success
+TXN0031,Phone Case,1784.0,,3.0,customer50@outlook.com,Failed
+TXN0032,Mouse,164.19,,3.0,customer46@yahoo.com,Success
+TXN0033,Phone Case,837.39,,9.0,customer23@gmail.com,Success
+TXN0034,RAM,1471.92,,10.0,customer30@yahoo.com,Failed
+TXN0035,Laptop,1187.87,,6.0,customer21@email.com,Success
+TXN0036,USB Cable,1665.53,2026-05-01,5.0,customer50@gmail.com,Success
+TXN0037,Laptop,406.73,,3.0,customer50@outlook.com,Success
+TXN0038,Watch,335.89,,3.0,customer7@yahoo.com,Failed
+TXN0039,Watch,1136.21,,6.0,customer28@gmail.com,Failed
+TXN0040,Cooling Pad,876.62,,3.0,customer18@gmail.com,Success
+TXN0041,Cooling Pad,1339.7,,5.0,customer18@outlook.com,Success
+TXN0042,USB Cable,1038.09,,10.0,customer2@email.com,Success
+TXN0043,Mouse,1167.0,,7.0,customer15@outlook.com,Success
+TXN0044,Watch,1902.25,,1.0,customer15@outlook.com,Success
+TXN0045,Tablet,1948.85,,7.0,customer12@outlook.com,Success
+TXN0046,Webcam,140.0,2026-06-11,1.0,customer36@gmail.com,Success
+TXN0047,Mouse,767.0,,1.0,customer41@yahoo.com,Success
+TXN0048,Monitor,1108.46,,0.0,customer45@outlook.com,Success
+TXN0049,Mouse,1577.78,,1.0,customer39@outlook.com,Pending
+TXN0050,Screen Protector,942.71,,0.0,customer39@outlook.com,Failed
+TXN0051,Laptop,1347.84,,2.0,customer41@email.com,Failed
+TXN0052,Webcam,673.28,,6.0,customer30@gmail.com,Pending
+TXN0053,Watch,814.31,,9.0,customer49@email.com,Success
+TXN0054,nan,270.72,,3.0,customer36@outlook.com,Failed
+TXN0055,nan,457.15,,4.0,customer31@email.com,Pending
+TXN0056,SSD,1202.76,,0.0,customer38@outlook.com,Success
+TXN0057,Tablet,973.84,,3.0,customer50@yahoo.com,Pending
+TXN0058,Webcam,1625.0,,9.0,customer29@gmail.com,Success
+TXN0059,Laptop,825.86,,5.0,customer21@email.com,Failed
+TXN0060,Webcam,81.44,,1.0,customer29@gmail.com,Success
+TXN0061,Laptop,939.38,,6.0,customer11@yahoo.com,Success
+TXN0062,SSD,489.25,,,customer44@outlook.com,Failed
+TXN0063,Charger,605.0,,1.0,customer37@outlook.com,Failed
+TXN0064,Laptop,1319.88,,7.0,customer50@outlook.com,Success
+TXN0065,Charger,388.36,,4.0,customer38@gmail.com,Failed
+TXN0066,Screen Protector,836.85,,4.0,customer19@email.com,Pending
+TXN0067,Watch,159.85,,6.0,,Success
+TXN0068,USB Cable,1646.61,,8.0,customer42@yahoo.com,Pending
+TXN0069,nan,1819.68,,7.0,customer35@yahoo.com,Pending
+TXN0070,RAM,1456.0,,5.0,customer16@email.com,Pending
+TXN0071,Charger,1955.91,,3.0,customer4@gmail.com,Failed
+TXN0072,Tablet,418.36,,,customer9@yahoo.com,Success
+TXN0073,Watch,61.3,,2.0,customer48@gmail.com,Success
+TXN0074,nan,730.46,,10.0,customer42@email.com,Pending
+TXN0075,Webcam,858.28,2026-04-24,1.0,customer25@outlook.com,Pending
+TXN0076,Cooling Pad,866.1,,3.0,customer26@email.com,Success
+TXN0077,RAM,517.23,2026-05-02,1.0,customer9@outlook.com,Success
+TXN0078,Phone Case,828.0,,8.0,customer15@email.com,Pending
+TXN0079,Charger,564.35,,9.0,customer2@outlook.com,Failed
+TXN0080,Screen Protector,708.54,,1.0,customer25@yahoo.com,Failed
+TXN0081,Charger,655.52,,4.0,customer32@email.com,Success
+TXN0082,Keyboard,236.0,,3.0,customer1@gmail.com,Failed
+TXN0083,Tablet,586.0,,8.0,customer5@outlook.com,Success
+TXN0084,RAM,939.38,,6.0,customer2@email.com,Failed
+TXN0085,Cooling Pad,1840.34,,6.0,customer15@outlook.com,Failed
+TXN0086,Watch,395.87,,2.0,customer12@gmail.com,Success
+TXN0087,Cooling Pad,1522.0,,7.0,customer41@email.com,Failed
+TXN0088,Smartphone,158.0,,1.0,customer30@email.com,Success
+TXN0089,Smartphone,1621.53,,5.0,customer33@gmail.com,Success
+TXN0090,Cooling Pad,1052.9,,0.0,customer5@outlook.com,Pending
+TXN0091,SSD,1450.23,,10.0,customer20@gmail.com,Pending
+TXN0092,Phone Case,1343.53,,3.0,customer13@email.com,Pending
+TXN0093,Headphones,1578.36,,9.0,customer47@yahoo.com,Success
+TXN0094,Mouse,1225.0,,3.0,customer30@email.com,Failed
+TXN0095,RAM,1635.61,,8.0,customer6@outlook.com,Success
+TXN0096,Tablet,192.51,2026-03-31,3.0,customer24@gmail.com,Failed
+TXN0097,Watch,1303.42,,7.0,customer6@gmail.com,Success
+TXN0098,nan,308.0,,10.0,customer5@email.com,Success
+TXN0099,Laptop,1154.34,,10.0,customer5@outlook.com,Success
+TXN0100,Laptop,946.0,2026-03-06,10.0,customer9@outlook.com,Success

@@ -1,0 +1,106 @@
+Transaction_ID,Product_Name,Price,Order_Date,Quantity,Customer_Email,Payment_Status
+TXN0001,  USB Cable  ,$287.68,20-05-2026,,customer36@gmail.com,Success
+TXN0002,RAM,"$1,182.64",2026-02-10,5.0,customer7@email.com,SUCCESS
+TXN0003,USB Cable,"$1,462.17",07-04-2026,5.0,customer3@gmail.com,Failure
+TXN0004,Headphones,"$1,734",12-Jun-26,4.0,customer39@gmail.com,pending
+TXN0005,Mouse,$765.12,15/01/2026,1.0,customer14@outlook.com,pending
+TXN0006,Cooling Pad,287.86,04/20/2026,2.0,customer49@gmail.com,Succeeded
+TXN0007,,"$1,259",2026-04-09,8.0,customer44@gmail.com,FAILED
+TXN0008,USB Cable,686.95,27-04-2026,2.0,customer41@gmail.com,Pending
+TXN0009,Keyboard,"$1,527.40",06-05-2026,4.0,customer37@yahoo.com,pending
+TXN0010,Webcam,$1956.19,05/02/2026,6.0,customer46@yahoo.com,Paid
+TXN0011,Charger,"$1,039.98",17-Jan-26,9.0,customer46@gmail.com,
+TXN0012,Smartphone,$151.01,05/05/2026,3.0,customer13@email.com,Completed
+TXN0013,Charger,$939.38,15-06-2026,1.0,customer35@yahoo.com,pending
+TXN0014,USB Cable,"$1,750.23",21-05-2026,1.0,customer11@yahoo.com,Paid
+TXN0015,SSD,$337.63,2026-03-09,7.0,customer14@outlook.com,Paid
+TXN0016,Smartphone,$124,16/05/2026,2.0,customer44@gmail.com,Paid
+TXN0017,Mouse,$89.09,05/30/2026,5.0,customer9@email.com,Pending
+TXN0018,Phone Case,"$1,872.11",25-05-2026,2.0,customer16@gmail.com,Succeeded
+TXN0019,Screen Protector,"$1,974.59",22-May-26,2.0,customer48@gmail.com,success
+TXN0020,Keyboard,415.16,06-03-2026,0.0,,Failed
+TXN0021,USB Cable,$889,29-01-2026,5.0,customer28@yahoo.com,SUCCESS
+TXN0022,Smartphone,$428.05,04/01/2026,2.0,customer11@yahoo.com,Failed
+TXN0023,RAM,,2026-03-27,1.0,customer31@gmail.com,Succeeded
+TXN0024,Cooling Pad,$1642.87,18/06/2026,4.0,customer44@email.com,Pending
+TXN0025,Laptop,$1941.1,09-03-2026,5.0,customer25@gmail.com,Failed
+TXN0026,Smartphone,$13.37,18-Jan-26,4.0,customer21@email.com,Failure
+TXN0027,Tablet,"$1,333",02/14/2026,0.0,customer28@yahoo.com,Failed
+TXN0028,Phone Case,$889.9,13-02-2026,5.0,customer44@yahoo.com,Failure
+TXN0029,Tablet,,05/02/2026,10.0,customer32@email.com,success
+TXN0030,Laptop,"$1,722.28",26/02/2026,8.0,customer30@gmail.com,Paid
+TXN0031,Phone Case,"$1,784",2026-05-21,3.0,customer50@outlook.com,FAILED
+TXN0032,Mouse,164.19,27-Mar-26,3.0,customer46@yahoo.com,success
+TXN0033,Phone Case,$837.39,04/10/2026,9.0,customer23@gmail.com,Success
+TXN0034,RAM,$1471.92,2026-03-11,10.0,customer30@yahoo.com,Failed
+TXN0035,Laptop,"$1,187.87",20/04/2026,6.0,customer21@email.com,SUCCESS
+TXN0036,USB Cable,1665.53,01-05-2026,5.0,customer50@gmail.com,Success
+TXN0037,  Laptop  ,$406.73,03/03/2026,3.0,customer50@outlook.com,success
+TXN0038,Watch,335.89,07-Jan-26,3.0,customer7@yahoo.com,Failed
+TXN0039,Watch,"$1,136.21",20-Apr-26,6.0,customer28@gmail.com,Failure
+TXN0040,Cooling Pad,876.62,2026-05-18,3.0,customer18@gmail.com,Completed
+TXN0041,Cooling Pad,1339.7,,5.0,customer18@outlook.com,SUCCESS
+TXN0042,USB Cable,$1038.09,2026-04-15,10.0,customer2@email.com,Succeeded
+TXN0043,Mouse,"$1,167",2026-03-30,7.0,customer15@outlook.com,Paid
+TXN0044,Watch,$1902.25,04-May-26,1.0,customer15@outlook.com,Paid
+TXN0045,Tablet,1948.85,2026-02-02,7.0,customer12@outlook.com,Success
+TXN0046,Webcam,$140,11-06-2026,1.0,customer36@gmail.com,Completed
+TXN0047,Mouse,$767,2026-05-31,1.0,customer41@yahoo.com,Completed
+TXN0048,Monitor,$1108.46,,0.0,customer45@outlook.com,Completed
+TXN0049,Mouse,$1577.78,20/05/2026,1.0,customer39@outlook.com,Pending
+TXN0050,Screen Protector,942.71,03/11/2026,0.0,customer39@outlook.com,FAILED
+TXN0051,Laptop,1347.84,2026-02-14,2.0,customer41@email.com,FAILED
+TXN0052,Webcam,$673.28,2026-03-26,6.0,customer30@gmail.com,Pending
+TXN0053,Watch,$814.31,2026-05-19,9.0,customer49@email.com,Succeeded
+TXN0054,,270.72,2026-06-28,3.0,customer36@outlook.com,Failure
+TXN0055,,$457.15,31/01/2026,4.0,customer31@email.com,Pending
+TXN0056,SSD,$1202.76,2026-03-12,0.0,customer38@outlook.com,Paid
+TXN0057,Tablet,973.84,2026-05-20,3.0,customer50@yahoo.com,pending
+TXN0058,Webcam,"$1,625",16/06/2026,9.0,customer29@gmail.com,Success
+TXN0059,Laptop,$825.86,09-Mar-26,5.0,customer21@email.com,Failed
+TXN0060,Webcam,$81.44,25-Jun-26,1.0,customer29@gmail.com,success
+TXN0061,Laptop,,17-Mar-26,6.0,customer11@yahoo.com,SUCCESS
+TXN0062,SSD,$489.25,13-Jun-26,,customer44@outlook.com,Failure
+TXN0063,Charger,$605,27-Apr-26,1.0,customer37@outlook.com,Failed
+TXN0064,Laptop,1319.88,,7.0,customer50@outlook.com,Success
+TXN0065,Charger,388.36,18/06/2026,4.0,customer38@gmail.com,Failure
+TXN0066,Screen Protector,$836.85,19-May-26,4.0,customer19@email.com,Pending
+TXN0067,Watch,$159.85,2026-06-22,6.0,,Paid
+TXN0068,USB Cable,1646.61,2026-03-01,8.0,customer42@yahoo.com,
+TXN0069,,1819.68,30/01/2026,7.0,customer35@yahoo.com,
+TXN0070,RAM,"$1,456",05/06/2026,5.0,customer16@email.com,Pending
+TXN0071,Charger,1955.91,12/03/2026,3.0,customer4@gmail.com,FAILED
+TXN0072,Tablet,$418.36,01-Mar-26,,customer9@yahoo.com,Completed
+TXN0073,Watch,$61.30,03/02/2026,2.0,customer48@gmail.com,SUCCESS
+TXN0074,,$730.46,02/26/2026,10.0,customer42@email.com,
+TXN0075,Webcam,$858.28,24-04-2026,1.0,customer25@outlook.com,pending
+TXN0076,Cooling Pad,$866.10,06/16/2026,3.0,customer26@email.com,Succeeded
+TXN0077,RAM,$517.23,02-05-2026,1.0,customer9@outlook.com,success
+TXN0078,Phone Case,$828,14-Jan-26,8.0,customer15@email.com,pending
+TXN0079,Charger,$564.35,05/24/2026,9.0,customer2@outlook.com,Failure
+TXN0080,Screen Protector,$708.54,2026-05-25,1.0,customer25@yahoo.com,Failure
+TXN0081,Charger,$655.52,09/02/2026,4.0,customer32@email.com,Success
+TXN0082,Keyboard,$236,06/23/2026,3.0,customer1@gmail.com,Failure
+TXN0083,Tablet,$586.00,,8.0,customer5@outlook.com,SUCCESS
+TXN0084,RAM,,03/22/2026,6.0,customer2@email.com,Failed
+TXN0085,Cooling Pad,"$1,840.34",28/01/2026,6.0,customer15@outlook.com,Failed
+TXN0086,Watch,395.87,15/06/2026,2.0,customer12@gmail.com,SUCCESS
+TXN0087,Cooling Pad,"$1,522",05/25/2026,7.0,customer41@email.com,Failure
+TXN0088,Smartphone,$158,15-Jan-26,1.0,customer30@email.com,success
+TXN0089,Smartphone,$1621.53,05/02/2026,5.0,customer33@gmail.com,Success
+TXN0090,  Cooling Pad  ,$1052.9,2026-03-14,0.0,customer5@outlook.com,pending
+TXN0091,SSD,$1450.23,30/05/2026,10.0,customer20@gmail.com,Pending
+TXN0092,Phone Case,"$1,343.53",04/19/2026,3.0,customer13@email.com,pending
+TXN0093,Headphones,"$1,578.36",08/06/2026,9.0,customer47@yahoo.com,SUCCESS
+TXN0094,Mouse,"$1,225",03-Mar-26,3.0,customer30@email.com,FAILED
+TXN0095,RAM,$1635.61,2026-01-14,8.0,customer6@outlook.com,Paid
+TXN0096,Tablet,$192.51,31-03-2026,3.0,customer24@gmail.com,Failed
+TXN0097,Watch,$1303.42,2026-03-15,7.0,customer6@gmail.com,SUCCESS
+TXN0098,,$308,15/03/2026,10.0,customer5@email.com,Success
+TXN0099,Laptop,$1154.34,01/01/2026,10.0,customer5@outlook.com,Completed
+TXN0100,Laptop,$946,06-03-2026,10.0,customer9@outlook.com,success
+TXN0006,Cooling Pad,287.86,04/20/2026,5,customer49@gmail.com,Succeeded
+TXN0070,RAM,"$1,456",05/06/2026,5,customer16@email.com,Pending
+TXN0083,Tablet,$586.00,,2,customer5@outlook.com,SUCCESS
+TXN0100,Laptop,$946,06-03-2026,10,customer9@outlook.com,success
+TXN0060,Webcam,$81.44,25-Jun-26,7,customer29@gmail.com,success
